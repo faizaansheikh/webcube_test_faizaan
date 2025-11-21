@@ -13,7 +13,7 @@ const PORT = 8000
 
 
 // connection
-connectMongodb('mongodb://localhost:27017/Blog_management')
+connectMongodb('mongodb+srv://faizaanimran333_db_user:webcube123@cluster0.vndtxhp.mongodb.net/yourAtlasDBName')
     .then(() => console.log('database connected'))
     .catch((err) => console.log('Error connecting database', err))
 
