@@ -7,3 +7,5 @@ User CRUD operations – fully functional
 Role-Based Access Control – Admin has full management capabilities, while Author has view-only access
 
 Due to time constraints, some features remain incomplete, and the project has not been deployed. I am sharing my repository with you, which contains both the frontend and backend folders.
+
+database username and password == faizaanimran333_db_user:webcube123
